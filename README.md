@@ -1,2 +1,2 @@
 # webResume
-projects for resu,e
+projects for resume
